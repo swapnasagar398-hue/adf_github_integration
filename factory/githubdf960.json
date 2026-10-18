@@ -1,0 +1,15 @@
+{
+	"name": "githubdf960",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f87bab06-3ada-41f3-a969-3b31157c3798",
+		"tenantId": "33df4a76-2386-4e95-9d6e-a1c9ab1428f0"
+	}
+}
